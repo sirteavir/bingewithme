@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: rgba(60, 119, 157, 0.26);
+    font-size: 36px;
+    font-weight: bold;
+    color: rgba(68, 128, 117, 0.9);
+    border-radius: 700px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border: 3px solid rgba(82, 152, 204, 0.68);
+    margin: 80px;
+    width: 400px;
+}
+body{
+    background-image: url("/assets/images/NYC.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+p{
+    background-color: rgba(68, 128, 117, 0.61);
+
+}

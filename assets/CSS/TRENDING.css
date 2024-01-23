@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: lightcoral;
+    font-family: Forte;
+    font-weight: bold;
+}
+body{
+    background-image: url("/assets/images/Warm and cozy atmosphere (1).jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Chiller;
+
+
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+li a{
+    float: left;
+    margin: 65px;
+    padding: 50px;
+    display: block;
+    background-color: rgba(241, 147, 113, 0.8);
+    text-decoration: none;
+    color: rgba(15, 101, 15, 0.9);
+    overflow: hidden;
+    font-weight: bold;font-family: Forte;
+
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: rgba(240, 128, 128, 0.88);
+}
+
+li a:hover{
+    background-color: blanchedalmond;
+}
+body{
+    background-image: url("/assets/images/Cozy November 2021 Wallpapers.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+p{
+    font-size: 36px;
+    font-family: Forte;
+    background-color: rgba(159, 74, 34, 0.26);
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border: 2px solid brown;
+    margin: 10px;
+}
+
+h2{
+    background-color: rgba(159, 74, 34, 0.26);
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border: 3px solid brown;
+    margin: 10px;
+    font-family: "Arial Black";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

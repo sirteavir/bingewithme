@@ -1,0 +1,52 @@
+#form-container{
+    background-color: rgba(159, 74, 34, 0.26);
+    border: 2px solid brown;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+
+}
+h1{
+    color: crimson;
+    font-family: Forte"Mongolian Baiti";
+    text-align: center;
+}
+.form-group{
+    color: #da1818;
+    margin-bottom: 16px;
+}
+label{
+    display: inline;
+    font-weight: bold;
+    margin: 0px;
+    color: #9f4a22;
+    font-weight: 36px;
+    font-family: Arial;
+}
+input[ type="name"]
+input[ type="email"]
+input[ type="password"]
+input[ type="text"]
+
+textarea,select{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+textarea{
+    height: 10px;
+}
+input[ type="radio"],input[ type="checkbox"]{
+    margin: 5px;
+}
+button{
+    padding: 5px;
+    color: rgba(15, 101, 15, 0.9);
+    text-decoration-color: #9f4a22;
+    font-family: Arial;
+    -webkit-text-fill-color: #074207;
+}
